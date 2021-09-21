@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanzim Ahmed.
-- 👀 I’m interested in Front End Development Machine learning and Data Analysis.
+- 👀 I’m interested in Front End Development, Machine learning and Data Analysis.
 - 🌱 I’m currently learning Deep learning and Django Framework.
 - 💞️ I’m looking to collaborate on Front end and Machine learning project.
 - 📫 How to reach me https://www.linkedin.com/in/ahmedtanzim077/
