@@ -6,14 +6,14 @@
 ## <div align="center">I'm Tanzim, a full-stack web developer 👨‍💻 </div>  
   
 
-- <div align="center">🌱 I’m currently learning Django and GraphQL
+- <div align="left">🌱 I’m currently learning Django and GraphQL
 </div>  
   
 
-- <div align="center">❓ Ask me about anything related to MERN stack and related technologies</div>  
+- <div align="left">❓ Ask me about anything related to MERN stack and related technologies</div>  
   
 
-- <div align="center">⚡ Fun fact: Visca el Barça</div>  
+- <div align="left">⚡ Fun fact: Visca el Barça</div>  
   
 
 <br/>  
