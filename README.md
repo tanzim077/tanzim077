@@ -3,16 +3,17 @@
 </div>  
   
 
-### <div align="center">I'm Tanzim, a full-stack web developer 👨‍💻 </div>  
+## <div align="center">I'm Tanzim, a full-stack web developer 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning Dhango and GraphQL  
+- <div align="center">🌱 I’m currently learning Django and GraphQL
+</div>  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- <div align="center">❓ Ask me about anything related to MERN stack and related technologies</div>  
   
 
-- ⚡ Fun fact: Visca el Barça  
+- <div align="center">⚡ Fun fact: Visca el Barça</div>  
   
 
 <br/>  
@@ -73,16 +74,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
   
 
 <br/>  
@@ -106,3 +97,4 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31n3d743kvg75nnhvnt2goxamcrm&cover_image=true&theme=default" /></div>
 <br />
+
