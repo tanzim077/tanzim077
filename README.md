@@ -1,12 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://i.giphy.com/media/Wn0nr2fpersAuprfpn/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">I'm Tanzim, a full-stack web developer 👨‍💻 </div>  
-  
-
--   
   
 
 - 🌱 I’m currently learning Dhango and GraphQL  
@@ -82,10 +79,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31n3d743kvg75nnhvnt2goxamcrm&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
   
 
 <br/>  
@@ -107,8 +100,9 @@
 [Shop World](https://moviewiki.netlify.app)
 
 [Chat Mania](https://chatmania.netlify.app/)</div>  
+  
 
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31n3d743kvg75nnhvnt2goxamcrm&cover_image=true&theme=default" /></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
