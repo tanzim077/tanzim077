@@ -5,7 +5,7 @@
 
 ## <div align="center">I'm Tanzim, a full-stack web developer 👨‍💻 </div>  
   
-- <div align="left🏢 Software Developer at Qunatigo AI
+- <div align="left">🏢 Software Developer at Qunatigo AI
 </div>  
 
 - <div align="left">🌱 I’m currently learning Django and GraphQL
