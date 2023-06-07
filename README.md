@@ -8,7 +8,6 @@
 - <div align="left">🏢 Software Developer at Qunatigo AI
 </div>  
 
-- <div align="left">🌱 I’m currently learning Django and GraphQL
 </div>  
   
 
