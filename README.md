@@ -2,8 +2,9 @@
 <img src="https://i.giphy.com/media/Wn0nr2fpersAuprfpn/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzim077&theme=dracula" align="center" style="width: 100%" />
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzim077&theme=dracula
+
 
 ## <div align="center">I'm Tanzim, a full-stack web developer 👨‍💻 </div>  
   
