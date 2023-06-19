@@ -1,8 +1,11 @@
 <div align="center">
 <img src="https://i.giphy.com/media/Wn0nr2fpersAuprfpn/giphy.gif" align="center" style="width: 100%" />
 </div>  
-  
+
+<br/>
+<div align="center">  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzim077&theme=dracula" align="center" style="width: 100%" />
+</div>  
 
 
 
@@ -74,7 +77,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tanzim077&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanzim077&theme=dracula&exclude={exclude}" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanzim077&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanzim077&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanzim077&theme=dracula"/>
+
+</div> 
 
 <br/>  
 
