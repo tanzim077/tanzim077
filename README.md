@@ -3,6 +3,8 @@
 </div>  
   
 
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzim077&theme=dracula
+
 ## <div align="center">I'm Tanzim, a full-stack web developer 👨‍💻 </div>  
   
 - <div align="left">🏢 Software Developer at Qunatigo AI
