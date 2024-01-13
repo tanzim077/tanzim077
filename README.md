@@ -79,24 +79,5 @@
 
 <br/>  
 
-  
-
-<br/>  
-
-
-## Favourite Project Link  
-<div align="center">
-
-[Explore Nature](https://explore-nature-39d31.web.app/)
-
-[Cactus World](https://world-of-cactus.web.app/)
-
-[Shop World](https://shop-world-fc9d6.web.app/)
-
-[Shop World](https://moviewiki.netlify.app)
-
-[Chat Mania](https://chatmania.netlify.app/)</div>  
-  
-
 <br/>  
 
