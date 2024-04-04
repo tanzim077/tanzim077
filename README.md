@@ -43,9 +43,7 @@
 
 ## Connect with me  
 <div align="center">
-  <a href="https://www.leetcode.com/tanzim077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanzim077" height="30" width="40" /></a>
-<a href="https://discord.gg/tanzim077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tanzim077" height="30" width="40" /></a>
-<a href="https://github.com/tanzim077" target="_blank">
+  <a href="https://github.com/tanzim077" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/tanzim077" target="_blank">
