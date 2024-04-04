@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Tanzim and I'm a software engineer at Quantigo AI, from Bangladesh</h2>
+<h3 align="left">💫 About Me:</h3>
+
+###
+
+<h4 align="left">🏢 I’m currently working on Quantigo AI as a Software Engineer<br>👯 I’m looking to collaborate on Full-stack project<br>🌱 I’m currently learning Microservice architecture it's depth<br>❓ Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact: Visca el Barça</h4>
 
 ###
 
@@ -6,6 +10,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tanzim077&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzim077&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h3 align="left">🌐 Socials:</h3>
 
 ###
 
@@ -17,6 +25,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
 </div>
+
+###
+
+<h3 align="left">💻 Tech Stack:</h3>
 
 ###
 
@@ -71,8 +83,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/tanzim077/tanzim077/output/snake.svg" alt="Snake animation" />
 
