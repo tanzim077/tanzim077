@@ -1,17 +1,24 @@
-
 <h1 align="left">💫 About Me:</h1>
 
 ###
 
-<h4 align="left">🏢 I’m currently working on Quantigo AI as a Software Engineer<br>👯 I’m looking to collaborate on Full-stack project<br>🌱 I’m currently learning Microservice architecture it's depth<br>❓ Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact: Visca el Barça</h4>
+<img align="right" height="200" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"  />
 
 ###
 
-<div>
-<img width="250px" src="https://github-readme-stats.vercel.app/api?username=tanzim077&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img width="300px" src="https://streak-stats.demolab.com?user=tanzim077&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
- <img width="250px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzim077&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<h6 align="left">😎 Hello!! I'm Tanzim.<br><br>🏢 I’m currently working at Quantigo AI as a Software Engineer.<br><br>👯 I’m looking to collaborate on Full-stack projects.<br><br>🌱 I’m currently delving into Microservice architecture in depth.<br><br>❓ Ask me about anything related to the MERN stack and related technologies.<br><br>⚡ Fun fact: Visca el Barça!</h6>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanzim077&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=tanzim077&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzim077&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
 
 <h2 align="left">🌐 Socials:</h2>
 
@@ -93,8 +100,7 @@
 ###
 
 <br clear="both">
-<div class="flex>
 
-<img align="right" height="180px" width="20%" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"  />
-<img width="80%" height="200px" src="https://raw.githubusercontent.com/tanzim077/tanzim077/output/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/tanzim077/tanzim077/output/snake.svg" alt="Snake animation" />
+
+###
