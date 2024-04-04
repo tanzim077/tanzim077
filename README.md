@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">😎 Hello!! I'm Tanzim.<br><br>🏢 I’m currently working at Quantigo AI as a Software Engineer.<br><br>👯 I’m looking to collaborate on Full-stack projects.<br><br>🌱 I’m currently delving into Microservice architecture in depth.<br><br>❓ Ask me about anything related to the MERN stack and related technologies.<br><br>⚡ Fun fact: Visca el Barça!</h6>
+<h6 align="left">😎 Hello!! I'm Tanzim.<br><br>🏢 I’m currently working at Quantigo AI as a Software Engineer.<br><br>👯 I’m looking to collaborate on Full-stack projects.<br><br>🌱 I’m currently delving into Microservice architecture in depth.<br><br>❓ Ask me about anything related to the MERN stack and related technologies.<br><br>🌐 Visit my portfolio : https://tanzim.vercel.app/<br><br>⚡ Fun fact: Visca el Barça!</h6>
 
 ###
 
@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/ahmedtanzim077/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="tanzim077" target="_blank">
+  <a href="https://discord.gg/ctdmEWcu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.facebook.com/tanzim077/" target="_blank">
