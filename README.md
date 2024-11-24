@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">😎 Hello!! I'm Tanzim.<br><br>🏢 I’m currently working at Quantigo AI as a Software Engineer.<br><br>👯 I’m looking to collaborate on Full-stack projects.<br><br>🌱 I’m currently delving into Microservice architecture in depth.<br><br>❓ Ask me about anything related to the MERN stack and related technologies.<br><br>🌐 Visit my portfolio : https://tanzim.vercel.app/<br><br>⚡ Fun fact: Visca el Barça!</h6>
+<h6 align="left">😎 Hello!! I'm Tanzim.<br><br>🏢 I’m currently working at <a href="https://www.jatri.co">Jatri</a> as a Software Engineer.<br><br>👯 I’m looking to collaborate on Full-stack projects.<br><br>❓ Ask me about anything related to the MERN stack and related technologies.<br><br>🌐 Visit my portfolio : https://tanzim.vercel.app/<br><br>⚡ Fun fact: Visca el Barça!</h6>
 
 ###
 
