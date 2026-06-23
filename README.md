@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"  />
+<!-- <img align="right" height="200" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"  /> -->
 
 ###
 
